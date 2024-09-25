@@ -14,7 +14,7 @@
         android:usesCleartextTraffic="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.TechnicalChallenge">
+        android:theme="@style/Theme.MVVMTest">
         <activity
             android:name=".presentation.MainActivity"
             tools:node="merge"
